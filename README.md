@@ -101,4 +101,3 @@ npm run dev
 - Simple text extraction only (complex table extraction logic is not fully optimized).
 - Recursive chunking is based strictly on chunk sizes rather than semantic boundaries.
 - PDF extraction relies on simple parsing without advanced OCR capabilities.
-# Finance-Rag

@@ -1,0 +1,32 @@
+# Environments
+.env
+.env.*
+!.env.example
+
+# Node
+node_modules/
+dist/
+npm-debug.log*
+
+# Go
+bin/
+obj/
+*.exe
+*.test
+*.prof
+
+# Database / Vectorstore
+rag.db
+rag.db-journal
+uploads/
+my_vector_data/
+
+# OS / Editor
+.DS_Store
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
